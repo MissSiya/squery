@@ -1,0 +1,31 @@
+{
+  "name": "squery",
+  "version": "0.0.1",
+  "description": "simple query engine",
+
+  "scripts": {
+    "test": "jest",
+    "test:dev": "jest --watchAll"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3",
+    "@types/node": "^20.3.2",
+    "ts-jest": "^29.1.0",
+    "@types/jest": "^29.5.2"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissSiya/squery.git"
+  },
+  "keywords": [
+    "query",
+    "engine",
+    "processing"
+  ],
+  "author": "MissSiya",
+  "bugs": {
+    "url": "https://github.com/MissSiya/squery/issues"
+  },
+  "homepage": "https://github.com/MissSiya/squery#readme"
+}
